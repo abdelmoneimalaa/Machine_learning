@@ -21,8 +21,8 @@ That is a repo to show and keep track of my learing in the field, feel free to c
 
 ### Results
 
-<img src="results.jpg" alt="result" width="200"/>
-![alt text](results2.jpg)
+<img src="results.jpg" alt="result" width="400"/>
+<img src="results2.jpg" alt="result2" width="400"/>
 
 
 
