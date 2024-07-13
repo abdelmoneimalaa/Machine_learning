@@ -1,7 +1,7 @@
 
 # ML beginer courses
 
-That is a repo foe ML and Computer vision.
+That is a simple repo foe ML and Computer vision.
 
 ## Projects 
 1. Fundumentals
