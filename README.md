@@ -1,7 +1,7 @@
 
 # ML beginer courses
 
-That is a repo to show and keep track of my learing in the field, feel free to contact me.
+That is a repo foe ML and Computer vision.
 
 ## Projects 
 1. Fundumentals
