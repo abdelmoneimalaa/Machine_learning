@@ -21,7 +21,7 @@ That is a repo to show and keep track of my learing in the field, feel free to c
 
 ### Results
 
-![alt text](results.jpg)
+<img src="results.jpg" alt="result" width="200"/>
 ![alt text](results2.jpg)
 
 
