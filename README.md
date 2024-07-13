@@ -22,6 +22,8 @@ That is a repo to show and keep track of my learing in the field, feel free to c
 ### Results
 
 ![alt text](results.jpg)
+![alt text](results2.jpg)
+
 
 
 
